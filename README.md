@@ -1,2 +1,2 @@
 # website
-laClavette.org / Front page 
+laClavette.net / Front page 
